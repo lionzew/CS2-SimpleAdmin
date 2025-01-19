@@ -1,6 +1,6 @@
 {
 	"sa_title": "[GO] Admin",
-	"sa_prefix": "â˜… {green}[GO] {default}",
+	"sa_prefix": "★ {green}[GO] {default}",
 	
 	"sa_unknown": "ناشناخته",
 	"sa_no_permission": "شما دسترسی برای استفاده از این دستور را ندارید.",

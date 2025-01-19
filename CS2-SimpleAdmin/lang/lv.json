@@ -1,6 +1,6 @@
 {
 	"sa_title": "[GO] Admin",
-	"sa_prefix": "â˜… {green}[GO] {default}",
+	"sa_prefix": "★ {green}[GO] {default}",
 	
 	"sa_unknown": "Nezināms",
 	"sa_no_permission": "Jums nav atļauju izmantot šo komandu.",
